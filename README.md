@@ -1,64 +1,83 @@
-<!--
-**saadraza49/saadraza49** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+# Muhammad Saad Raza | Software Engineer 
 
-# Muhammad Saad Raza | Software Engineer
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://saadraza.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-saadraza/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/saadraza49)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadraza49@gmail.com)
+
+---
+
+## 👨‍💻 About Me
 
 Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and Data Structures & Algorithms. Proven track record of building scalable, production-ready applications and mentoring engineering talent globally. Active contributor to competitive programming platforms with 10+ problems solved and participant in many international hackathons.
 
-- 🔭 Currently working on **FastAPI + PostgreSQL projects** and enhancing my personal portfolio  
-- 🌱 Learning advanced Python, web development, and data structures & algorithms  
-- 💻 Exploring new technologies and building practical projects  
+### 🎯 Core Competencies
+
+```
+✓ AI/ML Development & GPT Systems     ✓ Backend API Development (FastAPI)
+✓ Database Design (PostgreSQL)        ✓ Python Programming
+✓ Web & Backend Development           ✓ Cloud Deployment (Vercel, NeonDB)
+```
 
 ---
 
-## 📫 Connect with me
+## 🛠️ Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-saadraza/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/saadraza49/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat&logo=vercel&logoColor=white)](https://saadraza.vercel.app)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:msaadraza49@gmail.com)  
-
----
-
-## 🛠️ Skills & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+|  |  |
+| --- | --- |
+| 💻 **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⚙️ **Backend & Databases** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| 🤖 **AI/ML** ![OpenAI](https://img.shields.io/badge/GPT_Systems-412991?style=for-the-badge&logo=openai&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F61?style=for-the-badge&logo=google&logoColor=white) | ☁️ **Cloud & Tools** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=neon&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
-## 💻 Currently Working On
+## 🚀 Featured Projects
 
-- Backend APIs with **FastAPI + PostgreSQL**  
-- Improving **personal portfolio website** for showcasing projects  
-- Solving problems on **LeetCode** and sharpening DSA skills  
+### 🛒 [SMIT PostgreSQL — eCommerce Backend](https://github.com/saadraza49/SMIT-POSTGRESQL)
 
----
+**Tech Stack:** FastAPI · PostgreSQL · NeonDB Cloud · Python
 
-## 📂 Projects
-
-**FastAPI + PostgreSQL Backend**  
-Developed a REST API with FastAPI, implementing CRUD operations for user data and connecting it to a PostgreSQL database on Neon. Tested endpoints using SQLAlchemy and Swagger UI.  
-
-**Personal Portfolio Website**  
-Built a responsive personal portfolio website to showcase projects and skills with clean design and smooth navigation.  
+> A backend project built with FastAPI and PostgreSQL hosted on NeonDB cloud. Implements full **CRUD operations** with a database schema designed around an eCommerce use case — covering **Products** and **Cart** management.
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education & Learning
 
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadraza49&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadraza49&theme=tokyonight&layout=compact)  
+| Institution | Focus |
+| --- | --- |
+| 🏫 **GCUF** | Bachelor's Degree |
+| 🤖 **SMIT** | AI / ML Engineering |
+| 💻 **APNA College** | Programming & DSA |
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saadraza49.saadraza49)
+## 📊 GitHub Stats
+
+![Saad's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saadraza49&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadraza49&layout=compact&langs_count=8&theme=algolia&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadraza49&theme=algolia&hide_border=true)](https://github.com/saadraza49)
+
+---
+
+## 📫 Let's Connect
+
+**Open to:** AI/ML Projects · Backend Development · Freelance Work · Open Source Collaborations · Tech Discussions
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4285F4?style=for-the-badge)](https://saadraza.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/m-saadraza/)
+[![LeetCode](https://img.shields.io/badge/💻_LeetCode-Follow-FFA116?style=for-the-badge)](https://leetcode.com/u/saadraza49)
+
+---
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true)
+
+---
+
+**💬 "Building today what will matter tomorrow."**
+
+*⭐ From [saadraza49](https://github.com/saadraza49) — fueled by curiosity and chai ☕*
+
+---
+
+Last Updated: March 2026 | Built with ❤️ and Markdown
