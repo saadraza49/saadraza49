@@ -2,7 +2,7 @@
 **saadraza49/saadraza49** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-Muhammad Saad Raza | Software Engineer
+# Muhammad Saad Raza | Software Engineer
 
 Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and Data Structures & Algorithms. Proven track record of building scalable, production-ready applications and mentoring engineering talent globally. Active contributor to competitive programming platforms with 10+ problems solved and participant in many international hackathons.
 
