@@ -25,8 +25,8 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 
 |  |  |
 | --- | --- |
-| 💻 **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⚙️ **Backend & Databases** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 🤖 **AI/ML** ![OpenAI](https://img.shields.io/badge/GPT_Systems-412991?style=for-the-badge&logo=openai&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F61?style=for-the-badge&logo=google&logoColor=white) | ☁️ **Cloud & Tools** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=neon&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **Backend & Databases** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **AI/ML** ![OpenAI](https://img.shields.io/badge/GPT_Systems-412991?style=for-the-badge&logo=openai&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F61?style=for-the-badge&logo=google&logoColor=white) | **Cloud & Tools** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=neon&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
@@ -44,9 +44,8 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 
 | Institution | Focus |
 | --- | --- |
-| 🏫 **GCUF** | Bachelor's Degree |
-| 🤖 **SMIT** | AI / ML Engineering |
-| 💻 **APNA College** | Programming & DSA |
+|  **GCUF** | BS Software Engineering |
+|  **SMIT** | AI / ML Engineering |
 
 ---
 
