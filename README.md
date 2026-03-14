@@ -61,13 +61,12 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 
 ## 🎓 Education & Learning
 
-| Institution | Focus |
-|---|---|
+| Institution |
+|---|
 | ![GCUF](https://img.shields.io/badge/GCUF-Software%20Engineering-blue?style=for-the-badge) | 
-| ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20ML-orange?style=for-the-badge) | 
+| ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20DS-orange?style=for-the-badge) | 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
