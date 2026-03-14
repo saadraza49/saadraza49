@@ -21,12 +21,31 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Skills
 
-|  |  |
-| --- | --- |
-| **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)| **Backend & Databases** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **AI/ML** ![OpenAI](https://img.shields.io/badge/GPT_Systems-412991?style=for-the-badge&logo=openai&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F61?style=for-the-badge&logo=google&logoColor=white) | **Cloud & Tools** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=neon&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI / ML
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT Systems](https://img.shields.io/badge/GPT--Based%20Systems-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML%20%26%20DL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=neon&logoColor=black)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -43,19 +62,20 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 ## 🎓 Education & Learning
 
 | Institution | Focus |
-| --- | --- |
-|  **GCUF** | BS Software Engineering |
-|  **SMIT** | AI / ML Engineering |
-
+|---|---|
+| ![GCUF](https://img.shields.io/badge/GCUF-Software%20Engineering-blue?style=for-the-badge) | 
+| ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20ML-orange?style=for-the-badge) | 
 ---
 
 ## 📊 GitHub Stats
 
-![Saad's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saadraza49&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadraza49&layout=compact&langs_count=8&theme=algolia&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadraza49&theme=dark&layout=compact)
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadraza49&theme=dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadraza49&theme=dark)](https://github.com/saadraza49)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadraza49&theme=algolia&hide_border=true)](https://github.com/saadraza49)
+---
 
 ---
 
@@ -69,6 +89,16 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 
 ---
 
+## 📈 Skill Progress
+
+- **AI / ML:** ▇▇▇▇▇▇▇ 75%
+- **Backend (FastAPI):** ▇▇▇▇▇▇▇ 75%
+- **Databases (PostgreSQL):** ▇▇▇▇▇▇ 70%
+- **Frontend:** ▇▇▇▇▇ 60%
+- **Deployment & DevOps:** ▇▇▇▇▇ 60%
+
+---
+
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true)
 
 ---
@@ -79,4 +109,3 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 
 ---
 
-Last Updated: March 2026 | Built with ❤️ and Markdown
