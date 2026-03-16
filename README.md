@@ -5,6 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/saadraza49)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadraza49@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=saadraza49&color=blue)
 ---
 
 ## 👨‍💻 About Me
