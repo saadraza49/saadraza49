@@ -90,13 +90,13 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 ---
 
 ## 📈 Skill Progress
-
+```
 - **AI / ML:** ▇▇▇▇▇▇▇ 75%
 - **Backend (FastAPI):** ▇▇▇▇▇▇▇ 75%
 - **Databases (PostgreSQL):** ▇▇▇▇▇▇ 70%
 - **Frontend:** ▇▇▇▇▇ 60%
 - **Deployment & DevOps:** ▇▇▇▇▇ 60%
-
+```
 ---
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true)
