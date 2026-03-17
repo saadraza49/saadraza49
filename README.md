@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and Data Structures & Algorithms. Proven track record of building scalable, production-ready applications and mentoring engineering talent globally. Active contributor to competitive programming platforms with 10+ problems solved and participant in many international hackathons.
+Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and Data Structures & Algorithms. Proven track record of building scalable, production-ready applications and mentoring engineering talent globally. Active contributor to competitive programming platforms with 10+ leetcode solved and participant in many international hackathons.
 
 ### 🎯 Core Competencies
 
