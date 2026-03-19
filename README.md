@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and Data Structures & Algorithms. Proven track record of building scalable, production-ready applications and mentoring engineering talent globally. Active contributor to competitive programming platforms with 10+ leetcode solved and participant in many international hackathons.
+Software Engineer specializing in Backend Development, AI/ML, and Data Structures & Algorithms. Currently learning and building real-world projects with FastAPI, PostgreSQL, and Machine Learning.
 
 ### 🎯 Core Competencies
 
@@ -53,10 +53,14 @@ Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and
 ## 🚀 Featured Projects
 
 ### 🛒 [SMIT PostgreSQL — eCommerce Backend](https://github.com/saadraza49/SMIT-POSTGRESQL)
-
 **Tech Stack:** FastAPI · PostgreSQL · NeonDB Cloud · Python
-
 > A backend project built with FastAPI and PostgreSQL hosted on NeonDB cloud. Implements full **CRUD operations** with a database schema designed around an eCommerce use case — covering **Products** and **Cart** management.
+
+---
+
+### 🤖 [Customer Churn Prediction](https://github.com/saadraza49/customer-churn-prediction)
+**Tech Stack:** Python · Scikit-learn · Pandas · Matplotlib · Seaborn
+> End-to-end ML pipeline to predict customer churn using Logistic Regression and KNN. Includes data preprocessing, feature engineering, model evaluation and comparison. Final Project — AI Course by Hunarmand Punjab.
 
 ---
 
