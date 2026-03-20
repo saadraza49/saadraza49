@@ -52,13 +52,13 @@ Software Engineer specializing in Backend Development, AI/ML, and Data Structure
 
 ## 🚀 Featured Projects
 
-### 🛒 [SMIT PostgreSQL — eCommerce Backend](https://github.com/saadraza49/SMIT-POSTGRESQL)
+### [SMIT PostgreSQL — eCommerce Backend](https://github.com/saadraza49/SMIT-POSTGRESQL)
 **Tech Stack:** FastAPI · PostgreSQL · NeonDB Cloud · Python
 > A backend project built with FastAPI and PostgreSQL hosted on NeonDB cloud. Implements full **CRUD operations** with a database schema designed around an eCommerce use case — covering **Products** and **Cart** management.
 
 ---
 
-### 🤖 [Customer Churn Prediction](https://github.com/saadraza49/customer-churn-prediction)
+### [Customer Churn Prediction](https://github.com/saadraza49/customer-churn-prediction)
 **Tech Stack:** Python · Scikit-learn · Pandas · Matplotlib · Seaborn
 > End-to-end ML pipeline to predict customer churn using Logistic Regression and KNN. Includes data preprocessing, feature engineering, model evaluation and comparison. Final Project — AI Course by Hunarmand Punjab.
 
@@ -68,8 +68,8 @@ Software Engineer specializing in Backend Development, AI/ML, and Data Structure
 
 | Institution |
 |---|
-| ![GCUF](https://img.shields.io/badge/GCUF-Software%20Engineering-blue?style=for-the-badge) | 
-| ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20Data%20Science-orange?style=for-the-badge) | 
+| ![GCUF](https://img.shields.io/badge/GCUF-Software%20Engineering-red?style=for-the-badge) | 
+| ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20Data%20Science-green?style=for-the-badge) | 
 ---
 
 
