@@ -97,7 +97,7 @@ Software Engineer specializing in Backend Development, AI/ML, and Data Structure
 
 - **AI / ML:** ▇▇▇▇▇▇▇ 75%
 - **Backend (FastAPI):** ▇▇▇▇▇▇▇ 75%
-- **Databases (PostgreSQL):** ▇▇▇▇▇▇ 70%
+- **Databases (PostgreSQL):** ▇▇▇▇▇▇▇▇ 80%
 - **Frontend:** ▇▇▇▇▇ 60%
 - **Deployment & DevOps:** ▇▇▇▇▇ 60%
 
