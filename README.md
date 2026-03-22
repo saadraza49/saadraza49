@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer specializing in Backend Development, AI/ML, and Data Structures & Algorithms. Currently learning and building real-world projects with FastAPI, PostgreSQL, and Machine Learning.
+I am a Software Engineer specializing in Backend Development, AI/ML, and Data Structures & Algorithms. Currently learning and building real-world projects with Python, FastAPI, PostgreSQL, and Machine Learning.
 
 ### 🎯 Core Competencies
 
@@ -22,7 +22,7 @@ I am a Software Engineer specializing in Backend Development, AI/ML, and Data St
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills
 
 ### Languages
 
