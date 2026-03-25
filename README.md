@@ -68,7 +68,7 @@ I am a Software Engineer specializing in Backend Development, AI/ML, and Data St
 
 | Institution |
 |---|
-| ![GCUF](https://img.shields.io/badge/GCUF-Software%20Engineering-blue?style=for-the-badge) | 
+| ![GCUF](https://img.shields.io/badge/GCUF-Software%20Engineering-cyan?style=for-the-badge) | 
 | ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20Data%20Science-green?style=for-the-badge) | 
 ---
 
