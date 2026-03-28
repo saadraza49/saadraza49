@@ -86,9 +86,9 @@ I am a Software Engineer specializing in Backend Development, AI/ML, and Data St
 
 **Open to:** AI/ML Projects · Backend Development · Freelance Work · Open Source Collaborations · Tech Discussions
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4285F4?style=for-the-badge)](https://saadraza.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/m-saadraza/)
-[![LeetCode](https://img.shields.io/badge/💻_LeetCode-Follow-FFA116?style=for-the-badge)](https://leetcode.com/u/saadraza49)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-4285F4?style=for-the-badge)](https://saadraza.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/m-saadraza/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge)](https://leetcode.com/u/saadraza49)
 
 ---
 
@@ -107,7 +107,7 @@ I am a Software Engineer specializing in Backend Development, AI/ML, and Data St
 ---
 
 
-**💬 "Building today what will matter tomorrow."**
+**"Building today what will matter tomorrow."**
 
 *⭐ From [saadraza49](https://github.com/saadraza49) — fueled by curiosity and chai ☕*
 
