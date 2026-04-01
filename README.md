@@ -73,13 +73,6 @@ I am a Software Engineer specializing in Backend Development, AI/ML, and Data St
 | ![SMIT](https://img.shields.io/badge/SMIT-AI%20%26%20Data%20Science-green?style=for-the-badge) | 
 ---
 
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saadraza49&theme=dark)](https://git.io/streak-stats)
-
----
-
 ---
 
 ## 📫 Let's Connect
