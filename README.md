@@ -76,7 +76,6 @@ I am a Software Engineer specializing in Backend Development, AI/ML, and Data St
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadraza49&theme=dark&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadraza49&theme=dark)](https://github.com/saadraza49)
 
 ---
