@@ -1,4 +1,4 @@
-# Muhammad Saad Raza - AI DRIVEN SOFTWARE ENGINEER
+# Muhammad Saad Raza - AI Driven Software Engineer
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://saadraza.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-saadraza/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/saadraza49)
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer specializing in Backend Development, AI/ML, and Data Structures & Algorithms. Currently learning and building real world projects with Python, FastAPI, PostgreSQL and Machine Learning.
+I am a Software Engineer specializing in Backend Development, AI/ML, and Data Structures & Algorithms. Currently learning and building real world projects with Python, FastAPI, PostgreSQL and Machine Learning. Solved 10/10 puzzles cs50 in Puzzle Day 2026 and leading as a section leader in Stanford University Code In Place 2026.
 
 ### 🎯 Core Competencies
 
