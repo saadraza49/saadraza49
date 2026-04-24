@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=saadraza49&color=green)
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Myself 
 
 I am a Software Engineer specializing in Backend Development, AI/ML, and Data Structures & Algorithms. Currently learning and building real world projects with Python, FastAPI, PostgreSQL and Machine Learning. Solved 10/10 puzzles cs50 in Puzzle Day 2026 and leading as a section leader in  Code In Place 2026 at Stanford University.
 
