@@ -16,7 +16,7 @@ I am a Software Engineer specializing in Backend Development, AI/ML, and Data St
 ```
 ✓ AI/ML Development & GPT Systems     ✓ Backend API Development (FastAPI)
 ✓ Database Design (PostgreSQL)        ✓ Python Programming
-✓ Web & Backend Development           ✓ Cloud Deployment (Vercel, NeonDB)
+✓ Backend Development           ✓ Cloud Deployment (Vercel, NeonDB)
 ```
 
 ---
